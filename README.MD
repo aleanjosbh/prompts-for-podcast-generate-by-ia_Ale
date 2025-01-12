@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="imagem capa.png"
+    src="https://github.com/aleanjosbh/prompts-for-podcast-generate-by-ia_Ale/blob/main/Imagem%20capa.png"
     width="300"
 />
 </p>
