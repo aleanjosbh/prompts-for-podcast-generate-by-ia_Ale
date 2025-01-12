@@ -23,8 +23,10 @@
 </p>
 
 <div align="center">
-    <audio src/prompts="ABC da IA_Podcast_Final.MP3" controls title="Podcast editado"></audio>
+    <audio src = "ABC da IA_Podcast_Final.MP3" controls title="Podcast editado"></audio>
 </div>
+
+
 
 # Projeto Podcast Gerado por I.A.s
 
