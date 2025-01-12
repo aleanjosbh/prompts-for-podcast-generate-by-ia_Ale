@@ -42,9 +42,11 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 - Speaktor: (https://beta.speaktor.com) - Geração do áudio do podcast
 
 ## ✨ Como foi feito ?
-Eu aproveitei alguns prompts que utilizei para criar um E-book do mesmo assunto, cujo link é: https://github.com/aleanjosbh/prompts_receipt_to_create_a_ebook .
+Eu aproveitei alguns prompts que utilizei para criar um E-book do mesmo assunto, cujo título é "ABC da IA" e o link é: https://github.com/aleanjosbh/prompts_receipt_to_create_a_ebook .
 
-## 🧠 Prompts
+Por isto, alguns prompts mencionam "E-book" ao invés de "podcast".
+
+## 🧠 Prompts utilizados:
 
 Notion：
 
@@ -71,7 +73,6 @@ Copilot (textos)：
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
-
 ## 🛠️ Instruções de execução
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
@@ -84,15 +85,13 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 * Eu não consegui acompanhar o formato da estrutura sugerida do Notion. Então, achei melhor usar mesmo o Copilot para a estrutura e os textos e utilizei o Speaktor para a reprodução do áudio.
 
-* Não senti necessário) fazer novos prompts para o título e o roteiro, já que utilizei a mesma estrutura do E-book;
+* Não senti necessário) fazer novos prompts para o título e o roteiro, já que utilizei a mesma estrutura do E-book, conforme já explicado;
 
-* Não consegui acessar no moto gratuito o Midjourney para nenhuma imagem
+* Não consegui acessar no moto gratuito o Midjourney para nenhuma imagem - por isso, utilizei a mesma imagem que já havia gerado no Copilot para o E-book;
 
-O Copolit é disponível e preferir usar o prompt “ACt as a podcast writer”
+* Não consegui desbloquear nenhum crédito do Speaktor – então eu gravei o áudio gerado no Speaktor no celular;
 
-Não consegui desbloquear os créditos do Speaktor – então eu gravei o podcast em áudio mesmo
-
-Quando fui subir o arquivo de áudio para o cupcat, 
+* Quando fui subir o arquivo de áudio para o Cutcat, em mais de uma extensão, ele até ce
  
 ---
 
