@@ -31,23 +31,38 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- Notion: (https://notion.so) - Título
+- Copilot: (https://copilot.microsoft.com) - Imagem da capa, roteiro, subtítulos e textos
+- Speaktor: (https://beta.speaktor.com) - Geração do áudio do podcast
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+## 🧠 Prompts
+
+Notion：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Vou fazer um e-book falando sobre conceitos básicos de inteligência artificial para leigos. Gostaria de 5 sugestões de nomes.                                                        |
+
+Copilot (textos)：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Vou fazer um e-book falando sobre conceitos básicos de inteligência artificial para leigos, cujo nome é "ABC da IA". Favor sugerir uma estrutura de seções e um resumo de assuntos para o conteúdo.
+
+Copilot (textos)：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Favor criar uma imagem para um podcast cujo título é "ABC da IA". Utilizar uma cabeça com engrenagens, nas cores preta, branca e cinza.
+
 
 ## 📚 Materiais
 
