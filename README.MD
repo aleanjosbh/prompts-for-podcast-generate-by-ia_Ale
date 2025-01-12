@@ -23,10 +23,8 @@
 </p>
 
 <div align="center">
-    <audio src = "ABC da IA_Podcast_Final.MP3" controls title="Podcast editado"></audio>
+    <audio src = "https://github.com/aleanjosbh/prompts-for-podcast-generate-by-ia_Ale/blob/main/ABC%20da%20IA_Podcast_Final.MP3" controls title="Podcast editado"></audio>
 </div>
-
-
 
 # Projeto Podcast Gerado por I.A.s
 
