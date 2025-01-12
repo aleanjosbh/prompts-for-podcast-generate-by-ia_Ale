@@ -22,7 +22,8 @@
 Link para o podcast: 
 
 
-"https://github.com/aleanjosbh/prompts-for-podcast-generate-by-ia_Ale/blob/main/ABC%20da%20IA_Podcast_Final.MP3" controls title="Podcast editado"></audio>
+
+"https://github.com/aleanjosbh/prompts-for-podcast-generate-by-ia_Ale/blob/main/ABC%20da%20IA_Podcast_Final.MP3"
 </p>
 
 # Projeto Podcast Gerado por I.A.s
