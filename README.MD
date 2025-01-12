@@ -83,15 +83,15 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 🛠️ Desafios e adaptações do projeto
 
-* Eu não consegui acompanhar o formato da estrutura sugerida do Notion. Então, achei melhor usar mesmo o Copilot para a estrutura e os textos e utilizei o Speaktor para a reprodução do áudio.
+* Eu não consegui acompanhar o formato da estrutura sugerida do Notion. Então, achei melhor usar mesmo o Copilot para a estrutura e os textos e utilizei o Speaktor para a reprodução do áudio;
 
-* Não senti necessário) fazer novos prompts para o título e o roteiro, já que utilizei a mesma estrutura do E-book, conforme já explicado;
+* Não senti necessidade de fazer novos prompts para o título e o roteiro, já que utilizei a mesma estrutura do E-book, conforme já explicado;
 
 * Não consegui acessar no moto gratuito o Midjourney para nenhuma imagem - por isso, utilizei a mesma imagem que já havia gerado no Copilot para o E-book;
 
-* Não consegui desbloquear nenhum crédito do Speaktor – então eu gravei o áudio gerado no Speaktor no celular;
+* Não consegui desbloquear nenhum crédito do Speaktor – então eu gravei o áudio gerado no Speaktor no celular. Importante dizer que fiz várias adaptações no texto para que o áudio ficasse perfeito, especialmente porque ele tinha váriass palavras em inglês.
 
-* Quando fui subir o arquivo de áudio para o Cutcat, em mais de uma extensão, ele até ce
+* Quando fui subir o arquivo de áudio para o Cutcat online, em mais de uma extensão, ele aceitava o arquivos, porém não conseguia renderizar. Então, tive que baixar a versão para Windows e, somente assim, consegui editar o arquivo.
  
 ---
 
