@@ -33,7 +33,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -42,7 +42,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Speaktor: (https://beta.speaktor.com) - Geração do áudio do podcast
 
 ## ✨ Como foi feito ?
-Eu aproveitei alguns prompts que utilizei para criar um E-book do mesmo assunto:
+Eu aproveitei alguns prompts que utilizei para criar um E-book do mesmo assunto, cujo link é: https://github.com/aleanjosbh/prompts_receipt_to_create_a_ebook .
 
 ## 🧠 Prompts
 
