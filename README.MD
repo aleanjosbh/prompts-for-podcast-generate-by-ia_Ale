@@ -22,7 +22,7 @@
 Link para o podcast: 
 
 <div align="center">
-    <audio src="output/ABC da IA_Podcast_Final.MP3 " controls title="Podcast editado"></audio>
+    <audio src="output/ABC da IA_Podcast_Final.MP3 " </audio>
 </div>
 
 </p>
