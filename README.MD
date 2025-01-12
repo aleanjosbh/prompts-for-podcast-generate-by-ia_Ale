@@ -21,9 +21,9 @@
 <p align="center">
 Link para o podcast: 
 
-<div align="center">
-    <audio src="output/ABC da IA_Podcast_Final.MP3 " </audio>
-</div>
+https://github.com/aleanjosbh/prompts-for-podcast-generate-by-ia_Ale/blob/main/output/ABC%20da%20IA_Podcast_Final.MP3
+
+
 
 </p>
 
