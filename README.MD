@@ -42,6 +42,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Speaktor: (https://beta.speaktor.com) - Geração do áudio do podcast
 
 ## ✨ Como foi feito ?
+Eu aproveitei alguns prompts que utilizei para criar um E-book do mesmo assunto:
 
 ## 🧠 Prompts
 
@@ -79,36 +80,21 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 🛠️ Desafios e adaptações do projeto
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+* Eu não consegui acompanhar o formato da estrutura sugerida do Notion. Então, achei melhor usar mesmo o Copilot para a estrutura e os textos e utilizei o Speaktor para a reprodução do áudio.
 
+* Não senti necessário) fazer novos prompts para o título e o roteiro, já que utilizei a mesma estrutura do E-book;
+
+* Não consegui acessar no moto gratuito o Midjourney para nenhuma imagem
+
+O Copolit é disponível e preferir usar o prompt “ACt as a podcast writer”
+
+Não consegui desbloquear os créditos do Speaktor – então eu gravei o podcast em áudio mesmo
+
+Quando fui subir o arquivo de áudio para o cupcat, 
+ 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
+⌨️ com 💜 por [Alessandra Anjos](https://github.com/aleanjosbh) - (aleanjos@gmail.com)
