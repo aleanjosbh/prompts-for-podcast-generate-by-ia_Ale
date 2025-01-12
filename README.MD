@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/imagem capa.png"
+    src="imagem capa.png"
     width="300"
 />
 </p>
